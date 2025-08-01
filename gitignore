@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+
+# macOS files
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Test/Debug files
+*.log
+*.tmp
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Installer logs
+pip-log.txt
+
+# Python Egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Exclude export results if needed
+# export/
+
+# Optional: exclude large data
+*.csv
+
+# Do NOT exclude screenshots or assets
+!assets/

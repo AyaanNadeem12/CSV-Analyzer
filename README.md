@@ -23,7 +23,7 @@
 
 |              App UI               |            Data Analysis            |          NaN Summary           |
 |:---------------------------------:|:-----------------------------------:|:------------------------------:|
-| ![App UI](assets/screenshot1.PNG) | ![Analysis](assets/screenshot2.png) | ![NaN](assets/screenshot3.PNG) |
+| ![App UI](assets/screenshot1.PNG) | ![Analysis](assets/screenshot2.PNG) | ![NaN](assets/screenshot3.PNG) |
 
 |          Column Statistics           |          Data Cleaning           |           Data Visualizer            |
 |:------------------------------------:|:--------------------------------:|:------------------------------------:|
